@@ -2,7 +2,7 @@
 HR Analytics Employee Attrition Modeling 
 
 An American MNC HR Analytics Employee Attrition Modeling
-Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company.
+
 
 [] step 1: Importing attrition dataset and import libraries such as pandas, matplotlib.pyplot, numpy, and seaborn.
 
