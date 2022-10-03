@@ -1,4 +1,4 @@
-# Data-Modelling
+# Data-Modeling
 HR Analytics Employee Attrition Modeling 
 
 An American MNC HR Analytics Employee Attrition Modeling
