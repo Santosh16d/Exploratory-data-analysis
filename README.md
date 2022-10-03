@@ -16,3 +16,5 @@ Attrition is a major risk to service-providing organizations where trained and e
 [] step4: Projected a bar chart for the number of married and unmarried employees
 
 [] final step : Build up a logistic regression model to predict which employees are likely to attrition
+
+Project Data Source Credits : Simpleilearn
